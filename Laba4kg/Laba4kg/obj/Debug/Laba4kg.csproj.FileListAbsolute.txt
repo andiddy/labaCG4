@@ -1,0 +1,36 @@
+C:\Users\1\source\repos\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe.config
+C:\Users\1\source\repos\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe
+C:\Users\1\source\repos\Laba4kg\Laba4kg\bin\Debug\Laba4kg.pdb
+C:\Users\1\source\repos\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Laba4kg\Laba4kg\obj\Debug\Laba4kg.AppFor4Laba.resources
+C:\Users\1\source\repos\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba4kg\Laba4kg\obj\Debug\Laba4kg.exe
+C:\Users\1\source\repos\Laba4kg\Laba4kg\obj\Debug\Laba4kg.pdb
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe.config
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\bin\Debug\Laba4kg.pdb
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.AppFor4Laba.resources
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.GenerateResource.cache
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.exe
+C:\Users\1\Desktop\aerokos\2 сем\кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.pdb
+E:\лабы кг\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe.config
+E:\лабы кг\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe
+E:\лабы кг\Laba4kg\Laba4kg\bin\Debug\Laba4kg.pdb
+E:\лабы кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.AppFor4Laba.resources
+E:\лабы кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.GenerateResource.cache
+E:\лабы кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.exe
+E:\лабы кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.pdb
+E:\лабы кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.AssemblyReference.cache
+E:\лабы кг\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.CoreCompileInputs.cache
+E:\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe.config
+E:\Laba4kg\Laba4kg\bin\Debug\Laba4kg.exe
+E:\Laba4kg\Laba4kg\bin\Debug\Laba4kg.pdb
+E:\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.AssemblyReference.cache
+E:\Laba4kg\Laba4kg\obj\Debug\Laba4kg.AppFor4Laba.resources
+E:\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.GenerateResource.cache
+E:\Laba4kg\Laba4kg\obj\Debug\Laba4kg.csproj.CoreCompileInputs.cache
+E:\Laba4kg\Laba4kg\obj\Debug\Laba4kg.exe
+E:\Laba4kg\Laba4kg\obj\Debug\Laba4kg.pdb
